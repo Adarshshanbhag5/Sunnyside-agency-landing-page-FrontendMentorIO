@@ -53,3 +53,8 @@ Users should be able to:
 
 - Frontend Mentor - [@Adarshshanbhag5](https://www.frontendmentor.io/profile/Adarshshanbhag5)
 - Twitter - [@Adarshshanbhag5](https://www.twitter.com/Adarshshanbhag5)
+
+## Implemented
+
+- Software Developer- [@yash001dev](https://www.figma.com/proto/uAOs4kXwCSHS5CdKpKk82t/Figma-first-prototype?page-id=0%3A1&node-id=1%3A2&viewport=241%2C48%2C0.37&scaling=min-zoom&starting-point-node-id=1%3A2)
+
